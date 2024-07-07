@@ -10,7 +10,7 @@ conda activate pose2motion
 ```
 
 ## Download data
-Download the data from [here]() and extract it to the root directory of the project.
+Download the data from [here](https://drive.google.com/file/d/1BYH2t5XMGWwnu5coftehU0rTXupQvFLg/view) and extract it to the root directory of the project.
 
 ## Training
 To train the model for mixamo dataset, run the following command
@@ -19,7 +19,7 @@ python run_all_wgan_mixamo.py
 ```
 
 ## User Study
-check out [user_study.md](https://drive.google.com/file/d/1BYH2t5XMGWwnu5coftehU0rTXupQvFLg/view) for more details.
+check out [user_study.md](https://github.com/github-anonymous-submission/pose2motion_submission/blob/main/user_study/user_study.md) for more details.
 
 
 ## Acknowledgement
