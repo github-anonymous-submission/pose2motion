@@ -10,7 +10,7 @@ conda activate pose2motion
 ```
 
 ## Download data
-Download the data from [here](https:/) and extract it to the root directory of the project.
+Download the data from [here](https://docs.google.com/uc?export=download&id=1_849LvuT3WBEHktBT97P2oMBzeJz7-UP) and extract it to the root directory of the project.
 
 ## Training
 To train the model for mixamo dataset, run the following command
